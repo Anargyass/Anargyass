@@ -21,6 +21,8 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-46A500?logo=coreldraw&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?logo=capcut&logoColor=white)
 
 🌐 **Languages:** Indonesian 🇮🇩 | English 🇬🇧 | Arabic 🇸🇦 | Korean 🇰🇷  
 
@@ -40,8 +42,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anargyass&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anargyass&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anargyass&show_icons=true&theme=tokyonight" width="450"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anargyass&layout=compact&theme=tokyonight" width="450"/>
 </p>
 
 ---
