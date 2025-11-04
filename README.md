@@ -1,8 +1,7 @@
 <!-- 🌟 Profile Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/1ZvVkDc.gif" width="800" alt="welcome banner"/>
+  <img src="https://i.imgur.com/eWQZc3P.gif" width="800" alt="neon city banner"/>
 </p>
-
 # 👋 Hi, I'm Anargya!
 
 🎓 Information Technology Student at **Institut Teknologi Sepuluh Nopember (ITS)**  
