@@ -3,10 +3,10 @@
   <img src="https://i.imgur.com/1ZvVkDc.gif" width="800" alt="welcome banner"/>
 </p>
 
-👋 Hi, I'm Anargya!
+👋 **Hi, I'm Anargya!**
 
 🎓 Information Technology Student at **Institut Teknologi Sepuluh Nopember (ITS)**  
-🔒 Interested in **Web Development**, **Cybersecurity**, and **Computer Vision Smart Home Security** with **Face Recognition**  
+🔒 Interested in **Web Development**, **Cybersecurity**, and **Computer Vision**
 🌏 Preparing for **GKS Scholarship** to study in **Korea University** 🇰🇷  
 
 ---
