@@ -34,10 +34,6 @@
 ### 🌐 [Korea University Landing Page Website](https://anargyass.github.io/korea-university-landing-page/)
 > A responsive landing page inspired by Korea University’s design — built with HTML, CSS, and JavaScript.
 
-<p align="center">
-  <img src="https://github.com/anargyass/korea-university-landing-page/raw/main/preview.png" alt="project preview" width="700"/>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
