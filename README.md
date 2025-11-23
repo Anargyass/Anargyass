@@ -11,21 +11,51 @@
 
 ---
 
-## 🧠 Skills & Technologies
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+<!-- PROGRAMMING LANGUAGES -->
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+</p>
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![CorelDRAW](https://img.shields.io/badge/CorelDRAW-46A500?logo=coreldraw&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?logo=capcut&logoColor=white)
+<!-- FRAMEWORKS -->
+<h3 align="center">Frameworks</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge"/>
+</p>
+
+<!-- DEVELOPMENT TOOLS -->
+<h3 align="center">Development Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+</p>
+
+<!-- CREATIVE TOOLS -->
+<h3 align="center">Creative Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CorelDRAW-46A247?logo=coreldraw&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CapCut-000000?logo=capcut&logoColor=white&style=for-the-badge"/>
+</p>
+
+<!-- WEB BASICS -->
+<h3 align="center">Web Essentials</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
+
+</p>
+
+
 
 🌐 **Languages:** Indonesian 🇮🇩 | English 🇬🇧 | Arabic 🇸🇦 | Korean 🇰🇷  
 
