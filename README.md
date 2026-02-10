@@ -9,8 +9,6 @@
 🔒 Interested in **Web Development**, **Cybersecurity**, and **Computer Vision**  
 🌏 Preparing for **GKS Scholarship** to study in **Korea University** 🇰🇷  
 
----
-
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
 <!-- PROGRAMMING LANGUAGES -->
@@ -62,20 +60,8 @@
 </p>
 
 
-
 🌐 **Languages:** Indonesian 🇮🇩 | English 🇬🇧 | Arabic 🇸🇦 | Korean 🇰🇷  
 
----
-
-## 📂 Featured Projects
-
-✅ **Korea University Landing Page**  
-🔗 https://anargyass.github.io/korea-university-landing-page/
-
-✅ **NewJeans Dashboard Website (Login + UI)**  
-🔗 https://anargyass.github.io/newjeans-dashboard/
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -85,18 +71,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anargyass&layout=compact&theme=tokyonight" width="450"/>
 </p>
 
----
-
-## 💬 Quote
-> “Keep learning, stay curious, and build something amazing.” ✨  
-
----
-
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anargya-shafa-setiyadi-putra-ba9621379)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seoulinfinite@gmail.com)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/anargya-shafa-setiyadi-putra-ba9621379">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40"/>
+  </a>
+  <a href="mailto:seoulinfinite@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40"/>
+  </a>
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </p>
