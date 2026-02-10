@@ -65,10 +65,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anargyass&show_icons=true&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-stats-dpkp.vercel.app/api?username=anargyass&show_icons=true&theme=tokyonight" width="450"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anargyass&layout=compact&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-stats-dpkp.vercel.app/api/top-langs/?username=anargyass&layout=compact&theme=tokyonight" width="450"/>
 </p>
 
 ## 📫 Connect with Me
