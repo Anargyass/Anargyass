@@ -31,23 +31,6 @@
 
 </p>
 
-<!-- DEVELOPMENT TOOLS -->
-<h3 align="center">Development Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-</p>
-
-<!-- CREATIVE TOOLS -->
-<h3 align="center">Creative Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CorelDRAW-46A247?logo=coreldraw&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CapCut-000000?logo=capcut&logoColor=white&style=for-the-badge"/>
-</p>
 
 <!-- WEB BASICS -->
 <h3 align="center">Web Essentials</h3>
