@@ -30,11 +30,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge"/>
 
 </p>
-
-
 🌐 **Languages:** Indonesian 🇮🇩 | English 🇬🇧 | Arabic 🇸🇦 | Korean 🇰🇷  
-
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-dpkp.vercel.app/api?username=anargyass&show_icons=true&theme=tokyonight" width="450"/>
@@ -44,7 +40,6 @@
 </p>
 
 ## 📫 Connect with Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/anargya-shafa-setiyadi-putra-ba9621379">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40"/>
@@ -53,6 +48,4 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40"/>
   </a>
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-</p>
+
