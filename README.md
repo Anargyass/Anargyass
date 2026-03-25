@@ -30,7 +30,8 @@
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge"/>
 
 </p>
-🌐 **Languages:** Indonesian 🇮🇩 | English 🇬🇧 | Arabic 🇸🇦 | Korean 🇰🇷  
+🌐 **Languages:** Indonesian 🇮🇩 | English 🇬🇧 | Arabic 🇸🇦 | Korean 🇰🇷 
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-dpkp.vercel.app/api?username=anargyass&show_icons=true&theme=tokyonight" width="450"/>
